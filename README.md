@@ -56,6 +56,12 @@ To run this project, follow these steps:
 - `static/`: Directory containing static files (e.g., CSS, JavaScript).
 - `model/`: Directory containing trained machine learning models.
 
+## Additional Notes
+
+- Ensure that your system has a webcam connected if you plan to use real-time face recognition features.
+- You may need to adjust the model parameters or fine-tune the pre-trained model based on your specific requirements and dataset.
+- Experiment with different machine learning algorithms and hyperparameters for better face recognition accuracy.
+
 ## References
 
 - [Flask Documentation](https://flask.palletsprojects.com/)
